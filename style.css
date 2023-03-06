@@ -1,0 +1,47 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.main-title {
+  font-size: 100px;
+  margin-bottom: 20px;
+  font-family: cursive;
+}
+
+.container {
+  margin: auto;
+  max-width: 1200px;
+}
+
+.color-list {
+  background-color: lightgrey
+}
+
+.border {
+  border: 2px solid grey;
+  padding: 10px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.image-title {
+  background-color: gray;
+  font-family: fantasy;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.portrait {
+  width: 30%
+}
